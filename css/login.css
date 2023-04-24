@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #cb232c, #ce1d61);
+}
+
+#titulo{
+    display: flex;
+    color: rgb(255, 154, 201);
+    margin: 60px;
+    
+}    
+ 
+
+form {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    text-align: center;
+    padding: 20px 25px;
+    box-shadow: 0 5px 10px rgba(71, 3, 6, 0.7);
+}
+
+form .title{
+    color: #252525;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+form label{
+    margin-bottom: 35px;
+}
+
+form label .fa-solid {
+    font-size: 20px;
+    color: #cb232c;
+    margin-right: 10px;
+}
+
+form label input{
+    outline: none;
+    border: none;
+    color: #252525;
+    border-bottom: solid 1px #ce1d61;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+form label input::placeholder {
+    color: rgba(37, 37, 37, 0.5);
+}
+
+#check{
+    margin: 3px;
+}
+
+form .link-registro{
+    color: #252525;
+    margin-bottom: 15px;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.boton__btn{
+    height: 45px;
+	line-height: 45px;
+	width: 50%;
+	background: linear-gradient(to right, #cb323c, #ce1d61);
+	color: #fff;
+	font-weight: bold;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.boton__btn:hover{
+    box-shadow: 3px 0px 30px #ce1d61
+}
+
+#color-mode{
+    height: 30px;
+    width: 100px;
+    margin: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.texto-footer{
+    color: #d6769b;
+    margin: 50px;
+    font-size: .85rem;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "nikeTanjun",
+        "titulo": "Nike TANJUN",
+        "imagen": "/imgcomerce/Deportivo/NikeTANJUN.jpeg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "deportivo"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "nikeHuarache",
+        "titulo": "Nike Air HUARACHE",
+        "imagen": "/imgcomerce/Deportivo/NikeAirHUARACHE.webp",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "deportivo"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "nikePreDay",
+        "titulo": "Nike Air Pre-Day",
+        "imagen": "/imgcomerce/Deportivo/NikeAirMaxPre-day.jpeg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "deportivo"
+        },
+        "precio": 27000
+    },
+    {
+        "id": "nikeFuryosa",
+        "titulo": "Nike Air Furyosa",
+        "imagen": "/imgcomerce/Deportivo/NikeAirMaxFuryosa.jpeg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "Deportivo"
+        },
+        "precio": 33250
+    },
+    {
+        "id": "adidasRunning",
+        "titulo": "Adidas Running",
+        "imagen": "/imgcomerce/Deportivo/Adidasrunning.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "deportivo"
+        },
+        "precio": 37000
+    },
+    {
+        "id": "zapato-vittores",
+        "titulo": "Zapato Vittore",
+        "imagen": "/imgcomerce/Elegante/ZapatoVittore.webp",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "zapato-cambrillon",
+        "titulo": "Zapato Cambrillon",
+        "imagen": "/imgcomerce/Elegante/ZapatoCambrillon.jpg",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "zapato-florsheim",
+        "titulo": "Zapato Florsheim",
+        "imagen": "/imgcomerce/Elegante/ZapatoFlorsheim.png",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "zapato-glitter",
+        "titulo": "Zapato Glitter",
+        "imagen": "/imgcomerce/Elegante/ZapatomujerGlitter.jpg",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "zapato-liscuit",
+        "titulo": "Zapato Liscuit",
+        "imagen": "/imgcomerce/Elegante/ZapatomujerLiscuit.jpg",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 32650
+    },
+    {
+        "id": "zapato-tacon",
+        "titulo": "Zapato Tacon",
+        "imagen": "/imgcomerce/Elegante/ZapatoTacon.jpeg",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "zapato-vizzano",
+        "titulo": "Zapato Vizzano",
+        "imagen": "/imgcomerce/Elegante/ZapatoMujer.jpg",
+        "categoria": {
+            "nombre": "Zapatos",
+            "id": "elegante"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "casual-apolo",
+        "titulo": "Zapatilla Apolo",
+        "imagen": "/imgcomerce/Casual/ZapatillaApoloCasual.jpeg",
+        "categoria": {
+            "nombre": "Zapatillas y Ojotas",
+            "id": "casual"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "casual-novoblack",
+        "titulo": "Zapatilla Novo-Black",
+        "imagen": "/imgcomerce/Casual/ZapatillasNovoBlackCasual.jpg",
+        "categoria": {
+            "nombre": "Zapatilla y Ojotas",
+            "id": "casual"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "casual-union",
+        "titulo": "Zapatillas Unión",
+        "imagen": "/imgcomerce/Casual/ZapatillasUnionCasual.jpeg",
+        "categoria": {
+            "nombre": "Zapatilla y Ojotas",
+            "id": "casual"
+        },
+        "precio": 4600
+    },
+    {
+        "id": "casual-stars",
+        "titulo": "Zapatillas Alls Stars",
+        "imagen": "/imgcomerce/Casual/ZapatillasStarsCasual.jpg",
+        "categoria": {
+            "nombre": "Zapatilla y Ojotas",
+            "id": "casual"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "ojotas-mujer",
+        "titulo": "Ojotas Adidas Mujer",
+        "imagen": "/imgcomerce/Casual/AdidasMujerConfort.webp",
+        "categoria": {
+            "nombre": "Zapatillas y Ojotas",
+            "id": "casual"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "ojota-unisex",
+        "titulo": "Ojotas Adidas Unisex",
+        "imagen": "/imgcomerce/Casual/AdidasOjotas.jpg",
+        "categoria": {
+            "nombre": "Zapatillas y Ojotas",
+            "id": "casual"
+        },
+        "precio": 6700
+    }
+]
